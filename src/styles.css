@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f9; /* Fondo rosado suave */
+  color: #000;
+}
+
+h1, h5 {
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #f8c1cf; /* Borde rosado pastel */
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.table-bordered {
+  border: 2px solid #f8c1cf;
+}
+
+.table th {
+  background-color: #f8c1cf; /* Encabezado rosado */
+  color: #000;
+}
+
+.table td, .table th {
+  border-color: #f8c1cf;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.btn {
+  background-color: #f48ba1; /* Botones rosado pastel */
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.btn:hover {
+  background-color: #d77487; /* Oscurecer tono al pasar el cursor */
+}
+
+.text-success {
+  color: #28a745; /* Verde para mensajes positivos */
+}
+
+.text-danger {
+  color: #dc3545; /* Rojo para mensajes de alerta */
+}
+
+.input-group input,
+.input-group select {
+  border: 1px solid #f8c1cf;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+  outline: none;
+  border-color: #f48ba1;
+  box-shadow: 0 0 5px rgba(244, 139, 161, 0.5);
+}
+
+.toast {
+  background-color: #fff;
+  border: 1px solid #f48ba1;
+  color: #000;
+  border-radius: 5px;
+}

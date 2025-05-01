@@ -1,0 +1,36 @@
+/* src/styles.css */
+.table {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.table td {
+  padding: 10px;
+  text-align: center;
+}
+
+.textNota {
+  text-align: center;
+}
+
+.ejemplo td {
+  border: 1px solid #ccc;
+}
+
+.ejemplo {
+  background-color: #f9f9f9;
+}
+.shadow-text {
+  font-family: 'Arial', sans-serif;
+  font-size: 70px;  /* Tamaño del texto */
+  color: #3498db;   /* Color del texto */
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);  /* Efecto de sombra */
+}
+.header {
+  background-color: #f5f5f5; /* Fondo claro */
+  border-radius: 20px; /* Bordes redondeados */
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra envolvente */
+  max-width: 800px;
+  margin: 20px auto; /* Centrar el contenedor */
+}
