@@ -1,3 +1,36 @@
+# 📘 Calculadora de Notas
+
+Aplicación web desarrollada con **React** y **Node.js** que permite calcular el promedio de notas de forma simple, rápida y visual. Pensada para estudiantes y docentes, la herramienta facilita el ingreso de evaluaciones, ponderaciones y resultados finales.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- React – Interfaz de usuario dinámica y moderna
+- Node.js – Backend para cálculos (si aplica)
+- JavaScript – Lógica general del proyecto
+- HTML / CSS – Maquetado y estilos
+- Git / GitHub – Control de versiones
+
+---
+
+## 🎯 Funcionalidades principales
+
+- Ingreso de notas personalizadas
+- Cálculo automático de promedios simples o ponderados
+- Validación de datos ingresados
+- Interfaz responsiva y amigable
+
+---
+
+## 📦 Instalación y uso local
+
+1. **Clonar el repositorio**
+
+```bash
+git clone https://github.com/tu_usuario/calculadora-notas.git
+cd calculadora-notas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
